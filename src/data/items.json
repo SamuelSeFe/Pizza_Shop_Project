@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "type": "pizza",
+      "name": "Large Margherita",
+      "price": 12.99,
+      "imgUrl": "/imgs/margherita.jpg"
+    },
+    {
+      "id": 2,
+      "type": "pizza",
+      "name": "Medium Margherita",
+      "price": 10.99,
+      "imgUrl": "/imgs/margherita.jpg"
+    },
+    {
+      "id": 3,
+      "type": "pizza",
+      "name": "Small Margherita",
+      "price": 8.99,
+      "imgUrl": "/imgs/margherita.jpg"
+    },
+    {
+      "id": 4,
+      "type": "pizza",
+      "name": "Large Pepperoni",
+      "price": 12.99,
+      "imgUrl": "/imgs/pepperoni.jpg"
+    },
+    {
+      "id": 5,
+      "type": "pizza",
+      "name": "Medium Pepperoni",
+      "price": 10.99,
+      "imgUrl": "/imgs/pepperoni.jpg"
+    },
+    {
+      "id": 6,
+      "type": "pizza",
+      "name": "Small Pepperoni",
+      "price": 8.99,
+      "imgUrl": "/imgs/pepperoni.jpg"
+    },
+    {
+      "id": 7,
+      "type": "side",
+      "name": "Potatoe Wedges",
+      "price": 3.40,
+      "imgUrl": "/imgs/potatoe.jpg"
+    },
+    {
+      "id": 8,
+      "type": "side",
+      "name": "Herb Garlic Dip",
+      "price": 0.80,
+      "imgUrl": "/imgs/garlic.jpg"
+    }
+  ]
